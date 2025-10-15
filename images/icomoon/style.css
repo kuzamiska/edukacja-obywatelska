@@ -1,0 +1,28 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-checkbox-active {
+  width: 1.25em;
+}
+
+.icon-letter {
+  width: 1.3330078125em;
+}
+
+.icon-mobile-screen {
+  width: 0.642578125em;
+}
